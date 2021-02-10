@@ -14,8 +14,9 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.26,
     elevation: 5,
     backgroundColor: "white",
-    padding: 20,
+    padding: 15,
     borderRadius: 10,
+    height: "20%",
   },
 });
 
